@@ -1,0 +1,6 @@
+question1 = (input("What is 1 + 1?"))
+print(question1)
+question2 = (input("What is 10 * 10?"))
+print(question2)
+question3 = (input("What is 44 + 44?"))
+print(question3)
